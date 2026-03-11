@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the trends and future of popular JavaScript frameworks like React, Vue, and Angular."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "categories": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build RESTful APIs that can handle high traffic and scale effectively."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Alice Johnson", "Bob Brown"],
+    "categories": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "A hands-on workshop to master the modern CSS layout techniques of Grid and Flexbox."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Charlie Davis"],
+    "categories": ["Python", "Machine Learning"],
+    "duration": 60,
+    "description": "An introductory session on the fundamentals of machine learning using Python and popular libraries like Scikit-learn."
+  },
+  {
+    "title": "DevOps for Dummies",
+    "speakers": ["Diana Miller"],
+    "categories": ["DevOps", "CI/CD"],
+    "duration": 60,
+    "description": "A beginner-friendly guide to DevOps principles, continuous integration, and continuous deployment."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["Eve Williams"],
+    "categories": ["General", "Debugging"],
+    "duration": 60,
+    "description": "Learn effective strategies and tools for debugging code across different programming languages and environments."
+  }
+]
